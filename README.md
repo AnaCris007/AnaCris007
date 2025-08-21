@@ -1,8 +1,10 @@
 # <p align="center">Hi 👋, I'm Ana Cristina!</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=🎓+Software+Engineering+Student&size=22&color=000000&center=true&vCenter=true">
-</p>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=%F0%9F%8E%93+Software+Engineering+Student&size=22&color=FFFFFF&center=true&vCenter=true)
+
+</div>
 
 <p align="center">
   💡 Passionate about technology and programming <br>
